@@ -1,0 +1,2 @@
+# Public Course Projects
+This repository contains excerpts of programs I have written for coursework. I have only elected to upload projects which would not induce any significant risk of cheating, such as reimplementations of canonical Computer Science problems, and projects which were the result of a self-chosen topic.
